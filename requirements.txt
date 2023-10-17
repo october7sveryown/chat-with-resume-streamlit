@@ -17,6 +17,7 @@ click==8.1.7
 coloredlogs==15.0.1
 dataclasses-json==0.6.1
 faiss-cpu==1.7.4
+faiss-gpu==1.7.4
 fastapi==0.103.2
 filelock==3.12.4
 flatbuffers==23.5.26
