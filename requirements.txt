@@ -99,3 +99,4 @@ watchfiles==0.21.0
 websockets==11.0.3
 yarl==1.9.2
 zipp==3.17.0
+sqlite3 == 3.35.0
