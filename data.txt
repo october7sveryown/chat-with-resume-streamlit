@@ -1,0 +1,54 @@
+ Yash Thaker
+yashthaker.777@gmail.com | (+1) 437-313-2772 | Whitby, ON, Canada | Website - https://yash-thaker.vercel.app | LinkedIn - https://linkedin.com/in/yash-thaker Objective
+As a dedicated software engineer with more than 4 years of experience in developing web applications, my aim is to leverage my skills and knowledge to create innovative solutions that meet the needs of the company. I am committed to staying up-to-date with the latest technologies and can quickly adapt to new tools and frameworks to deliver high-quality software products. With a strong work ethic and a passion for problem-solving, I am eager to contribute to the success of the company and help drive its growth.
+Skills & Interests
+• Languages : Java, JavaScript, Python, SQL, HTML5, CSS3, PHP, Dart
+• Framework/Libraries worked with: Spring boot, Bootstrap, Angular, React, LangChain, Node.js, CodeIgniter, Flutter • Database : MySQL & MongoDB
+• Version Control System : Git
+• Project Management : Jira, Confluence
+• Interests : AI, Soccer, Fitness, Movies
+     Work Experience
+Multi Commodity Exchange of India Ltd.
+Senior Executive - Technology | Full-time Management Trainee - Technology | Full-time
+GIFT City, Gandhinagar, India
+June 2020 - August 2023 June 2019 - May 2020
+ • Engaged in the end-to-end development of two web applications, overseeing their entire lifecycle from conceptualization to deployment.
+• Spearheaded the creation of highly adaptable and responsive front-end components utilizing the Angular framework, optimizing user experiences across various devices and screen sizes.
+• Utilized Spring Boot, a Java-based framework, to architect and engineer RESTful APIs, effectively handling data communication and integration between the front-end and back-end components of the applications.
+• Assumed responsibility for the design and management of the application databases, ensuring optimal data organization, retrieval, and security measures were in place to uphold data integrity and privacy standards.
+• Diligently met project timelines by consistently delivering new features and promptly resolving identified issues and bugs, guaranteeing smooth and uninterrupted application operation.
+• Produced comprehensive technical specifications documentation, offering a valuable reference guide for team members and stakeholders, aiding in project clarity and cohesion.
+• Implemented a robust code review process, meticulously examining and assessing code contributions to maintain high standards of quality, efficiency, and adherence to best practices.
+• Orchestrated and actively participated in the deployment of applications across multiple environments, including development, testing, and production environments, ensuring seamless transitions and minimal disruptions during the deployment process.
+• Effectively managed server updates essential for software maintenance, encompassing migration activities, patch updates, and deployment procedures, enhancing the overall reliability and performance of the applications.
+Achievements
+• Got appreciated in a local newspaper for a project developed during Hackathon
+• Appreciated by CTO in company’s annual town hall meeting for completing development of application on stipulated
+deadline
+• Received average performance rating of 5.30 (out of 6) during my tenure
+ 
+ Education
+L.D. College of Engineering
+B.E. in Computer Engineering
+• CGPA : 8.96
+Nirma University
+Diploma in Computer Engineering
+• CGPA : 9.62
+Projects ChatGPT Clone
+• Simple ChatGPT Clone made with React & OpenAI completion API. Deployed with Netlify
+HMS Mobile App
+Ahmedabad, India
+August 2016 - May 2019
+Ahmedabad, India
+August 2013 - May 2016
+   • Hotel management system on fingertips - Developed a mobile application with Flutter for both Android & iOS. Implemented features like real-time availability of rooms, allotting rooms, guest details in application.
+• Technologies involved : Flutter, Node.js, MySQL
+Fighting Fake News
+• A fact-checking way of identifying potential fake news and spreading awareness about prevailing fake news in certain location. A Mobile Application for reporting & notifying potential fake news.
+• Technologies involved : Java, Android, MongoDB, Node.js
+GTU Innovation Council - Official App
+• An official mobile application of GTU Innovation Council which notified users about latest GTU events, workshops & seminars.
+• Technologies involved : Java, Android, PHP, MySQL
+Care-hub
+• A Web app showing area-wise diseases spread and suggested actions to be taken to prevent those diseases. Project details were published in local newspapers as an act of appreciation.
+• Technologies involved : PHP, CodeIgniter, JavaScript
