@@ -5,7 +5,7 @@ import streamlit as st
 from langchain.document_loaders import TextLoader
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 import datetime
@@ -42,10 +42,9 @@ def process_input(input):
 
         after_splitting = r_splitter.split_documents(pages)
 
-        vectordb = Chroma.from_documents(
+        vectordb = FAISS.from_documents(
             documents=after_splitting,
             embedding=embedding,
-            persist_directory=directory
         )
 
         retriever=vectordb.as_retriever()
