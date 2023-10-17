@@ -1,7 +1,5 @@
 streamlit
-sys
 langchain
 openai
-datetime
 python-dotenv
 chromadb
